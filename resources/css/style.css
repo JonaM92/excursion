@@ -1,5 +1,5 @@
 * {
-  font-family: Verdana;
+  font-family: Verdana; sans-serif;
   background-color: black;
   text-align: center;
 }
@@ -14,6 +14,7 @@ h1 {
 p {
   font-size: 21px;
   color: Gray;
+  text-align: center;
 }
 
 h2 {
@@ -25,10 +26,12 @@ h2 {
 .call {
     color: Aquamarine;
     font-size: 16px;
+}
 
+#footer {
+  text-align: right;
+}
 
 video {
       object-fit: contain;
     }
-
-    
